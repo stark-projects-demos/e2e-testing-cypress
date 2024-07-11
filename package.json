@@ -1,0 +1,17 @@
+{
+  "name": "e2e-testing-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@stark-ci/cypress": "^1.0.0",
+    "cypress": "^13.13.0",
+    "dotenv": "^16.4.5",
+    "typescript": "^5.5.3"
+  }
+}
